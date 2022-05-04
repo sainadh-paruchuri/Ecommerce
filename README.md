@@ -1,1 +1,2 @@
 # Ecommerce
+E-Commerce is a console application for online shopping. It is used to display the list of products available in the store, displays the product added in the cart, place order and display all orders of a customer.It has mainly two modules 1.Admin and 2.Customer.The admin has control to add the products,delete the products and also add the customers.The customer can buy the items and also view the items which are available.
